@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Calculadora",
+    "slug": "snack-79335785-1b86-42c7-ae4f-3c844bfee67d",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "https://cdn-icons-png.flaticon.com/512/9122/9122761.png",
+      "name": "Calculadora"
+    }
+  }
+}
